@@ -9,10 +9,11 @@
       <description>In a galaxy far far away</description>
       <link>Optional link goes here</link>
       <pubDate>In a krillion years</pubDate>
-      <source url="the source URL">Super Sigma 5000</source>
+      <source url="http://source-url.com">Super Sigma 5000</source>
       ...
     </item>
     ...
   </channel>
 
 </rss>
+
